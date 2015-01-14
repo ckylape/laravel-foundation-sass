@@ -1,5 +1,5 @@
 {
-    "name": "ckylape/laravel-foundation-sass",
+    "name": "laravel-foundation-sass",
     "devDependencies": {
         "grunt": "latest",
         "grunt-contrib-watch": "latest",
