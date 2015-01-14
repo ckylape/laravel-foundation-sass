@@ -1,0 +1,7 @@
+{
+  "name": "ckylape/laravel-foundation-sass",
+  "devDependencies": {
+    "foundation": "latest"
+  },
+  "private": true
+}
